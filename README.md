@@ -4,7 +4,7 @@ Karabiner-Elementsの設定ファイルを置いています。
 - us2jis.json:　`US配列をJIS配列に再配置します。`
 
 ## Setup
-```bash
+```sh
 git clone https://github.com/hachiro-grape/karabiner.git
 cd karabiner
 sh setup.sh
